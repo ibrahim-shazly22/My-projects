@@ -1,0 +1,51 @@
+French,English
+histoire,history
+seulement,only
+police,police
+aide,help
+genre,kind
+frère,brother
+laisser,let
+car,because
+mettre,to put
+parlé,speak
+arrivé,come
+devrait,should
+bébé,baby
+longtemps,long time
+vont,will
+pendant,while
+aucune,any
+compris,understood
+savais,knew
+voici,here is
+donner,give
+type,type
+leurs,their
+donné,given
+train,train
+écoute,listen
+premier,first
+perdu,lost
+vieux,old
+tellement,so much
+enfant,child
+point,point
+pardon,sorry
+venez,come
+vers,towards
+minutes,minutes
+chambre,bedroom
+mis,placed
+aujourd'hui,today
+enfin,finally
+boulot,job
+compte,account
+donne,given
+loin,far
+chérie,sweetheart
+gros,large
+plutôt,rather
+aura,will have
+filles,girls
+jouer,to play
